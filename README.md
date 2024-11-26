@@ -1,2 +1,2 @@
 # Site minimalista
-Página de perfil utiizando HTML/CSS
+Página de perfil utilizando HTML/CSS
